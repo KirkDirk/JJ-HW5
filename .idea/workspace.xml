@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac88b59-2d3b-4901-b3a9-a7a396615ae0" name="Changes" comment="Configured configurations Run/Debug">
-      <change afterPath="$PROJECT_DIR$/chat-client/src/main/java/ru/kirkdirk/Client.java" afterDir="false" />
+    <list default="true" id="eac88b59-2d3b-4901-b3a9-a7a396615ae0" name="Changes" comment="Added code for client">
+      <change afterPath="$PROJECT_DIR$/chat-server/src/main/java/ru/kirkdirk/ClientManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-server/src/main/java/ru/kirkdirk/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-client/src/main/java/ru/kirkdirk/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/chat-client/src/main/java/ru/kirkdirk/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-server/src/main/java/ru/kirkdirk/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/chat-server/src/main/java/ru/kirkdirk/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,13 +134,22 @@
       <option name="project" value="LOCAL" />
       <updated>1735315208507</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added code for client">
+      <option name="closed" value="true" />
+      <created>1735485080937</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735485080938</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Added modules" />
     <MESSAGE value="Configured configurations Run/Debug" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configured configurations Run/Debug" />
+    <MESSAGE value="Added code for client" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code for client" />
   </component>
 </project>
