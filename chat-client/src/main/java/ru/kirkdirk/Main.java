@@ -28,6 +28,9 @@ public class Main {
             System.out.println(" Remote IP: " + remoteIP);
             System.out.println(" LocalPort: " + socket.getLocalPort());
 
+            // Комментарий для отправки личных сообщений
+            System.out.println("---\nДля отправки личного сообщения используйте формат '@имя сообщение'");
+
             // Инициализируем поток слушателя входящих сообщений
             client.listenForMessage();
             // Инициализируем поток для отправки сообщений
